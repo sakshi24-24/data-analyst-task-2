@@ -47,18 +47,6 @@ Built pivot charts to visualize sales distribution
 
 Summarized key business insights based on analysis
 
-📈 Key Insights
-
-The Set category contributes the highest share of total sales, making it the primary revenue driver.
-
-Maharashtra and Karnataka are the top-performing regions in terms of sales.
-
-Amazon-fulfilled orders generate higher sales compared to merchant-fulfilled orders.
-
-B2C orders dominate overall sales, indicating a consumer-driven market.
-
-Product category performance varies by region, suggesting opportunities for regional targeting.
-
 📦 Deliverables
 
 Pivot_Report.xlsx – Excel file with pivot tables, slicers, and charts
